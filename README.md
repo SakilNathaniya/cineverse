@@ -1,3 +1,10 @@
+# About the Project
+A movie-db website is an allows users to search movies for personal or business use. The website provides an easy-to-use interface for searching movies 
+Credit for Design goes to Shubham
+
+Live Demo at :(https://cineverse-sn.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
