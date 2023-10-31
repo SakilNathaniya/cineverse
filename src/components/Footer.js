@@ -35,7 +35,11 @@ export const Footer = () => {
           </Link>
         </li>
         <li>
-          <Link to="" target="_blank" className="hover:underline">
+          <Link
+            to="https://github.com/SakilNathnaiya"
+            target="_blank"
+            className="hover:underline"
+          >
             Github
           </Link>
         </li>
